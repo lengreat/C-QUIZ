@@ -1,0 +1,11 @@
+¿nombre de la librería de matematica en c?, math.h
+jtipo de dato caracter?, char
+¿tipo de dato para una cadena?, string
+¿tipo de dato entero?, int
+¿libreria para archivos?, stdio.h
+¿simbolo que identifica a un puntero?, *
+¿valor de EOF?, -1
+¿tipo de dato para variables apuntando a archivos?, FILE
+¿valor cuando no se encuentra un archivo?, NULL
+
+
