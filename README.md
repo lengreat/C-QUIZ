@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#overview">Introduction</a> •
   <a href="#demo">Demo</a> •
+  <a href="#demo">Step</a> •
   <a href="#controls">Controls</a> •
   <a href="#changingControls">Changing Controls</a>
 </p>
