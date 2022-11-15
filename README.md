@@ -23,10 +23,8 @@ There are marked boxes that contain questions about C language and let them to o
 
 <h1 id="demo">Demo</h1>
 <p align="center">
-  <img width="100%" src="demo.gif">
+  <img src="https://user-images.githubusercontent.com/99779642/202041387-160088bb-1175-400f-bc55-8988f6b4642c.gif" style="max-width:100%;width:auto;height:auto;">
 </p>
-
-
 
 <h1 id="controls">Controls</h1>
 
