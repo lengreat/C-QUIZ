@@ -17,9 +17,9 @@
 </p>
 
 <h1 id="introduction">Introduction</h1>
-This is a replica of the "Super Bomberman" Game in SNES.
+This is a game to play in  windows console (CMD), it comprise a track of rows and columns boxes where the players move to end the game. 
+There are marked boxes that contain questions about C language and let them to overtake positions. 
 
-The idea is to place a bomb near a wall to destroy it and use the same bomb to defeat the second player.
 
 <h1 id="demo">Demo</h1>
 <p align="center">
