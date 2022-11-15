@@ -1,11 +1,12 @@
 <h1 id="title" align="center">C-QUIZ</h1>
 
-<h3 align="center">:video_game:  Console Game in C language :bomb: </h3>
+<h3 align="center"> :black_heart:  Console Game in C language :black_large_square: </h3>
 
 <p align="center">
-  <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-c-sharp.svg"></a>
-  <a href="#title"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
+  <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-c.svg"></a>
+  <a href="#title"><img src="https://forthebadge.com/images/badges/makes-people-smile.svg"></a>
 </p>
+
 
 <p align="center">
   <a href="#overview">Introduction</a> •
