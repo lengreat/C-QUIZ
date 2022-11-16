@@ -49,11 +49,11 @@ Step by Step, before donwload and install Visual Studio Code, Git, MinGW
 * Download or clone this repository
 ```ruby
 # Clone this repository
-$ git clone https://github.com/ahsankhan26/TermFolio.git
+$ git clone https://github.com/lengreat/C-QUIZ.git
 ```
 * Steps in VSCode
 ```ruby
- Select in "Terminal" => "Configure Tasks.." to generate the necessary files for compilation
+# Select in "Terminal" => "Configure Tasks.." to generate the necessary files for compilation
 # Check in "juego.c" => "Run Build Task..." to generate .exe
 $ start juego.exe
 ```
@@ -62,7 +62,10 @@ $ start juego.exe
 You can change the boxes sheer number and choose to play with other player, likewise you can check all winners records in second option.
 
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
+
 * C Language
+
+
 
 
 
