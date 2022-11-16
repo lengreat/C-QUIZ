@@ -9,10 +9,9 @@
 
 
 <p align="center">
-  <a href="#overview">Introduction</a> •
+  <a href="#introduction">Introduction</a> •
   <a href="#demo">Demo</a> •
   <a href="#demo">Step</a> •
-  <a href="#controls">Controls</a> •
   <a href="#changingControls">Changing Controls</a>
 </p>
 
@@ -24,6 +23,10 @@ There are marked boxes that contain questions about C language and let them to o
 <h1 id="demo">Demo</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99779642/202041387-160088bb-1175-400f-bc55-8988f6b4642c.gif" style="max-width:100%;width:auto;height:auto;">
+</p>
+<h1  align="center">Preview</h1>
+<p align="center">
+  <a href="/"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
 </p>
 
 <h1 id="controls">Controls</h1>
