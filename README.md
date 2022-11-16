@@ -12,7 +12,8 @@
   <a href="#introduction">Introduction</a> •
   <a href="#demo">Demo</a> •
   <a href="#setup">Setup</a> •
-  <a href="#changingControls">Changing Controls</a>
+  <a href="#options">Options</a> •
+  <a href="#made_with">Made with</a> 
 </p>
 
 <h1 id="introduction">Introduction</h1>
@@ -50,15 +51,18 @@ Step by Step, before donwload and install Visual Studio Code, Git, MinGW
 # Clone this repository
 $ git clone https://github.com/ahsankhan26/TermFolio.git
 ```
-* Run in VSCode
+* Steps in VSCode
 ```ruby
-# Select in "Terminal" => "Configure Tasks.." to generate the necessary files for compilation
+ Select in "Terminal" => "Configure Tasks.." to generate the necessary files for compilation
 # Check in "juego.c" => "Run Build Task..." to generate .exe
 $ start juego.exe
 ```
 
+<h1 id="options">Options</h1>
+You can change the boxes sheer number and choose to play with other player, likewise you can check all winners records in second option.
 
-<h1 id="changingControls">Changing Controls</h1>
-You can change the controls by making changes in the following files present in <i>/Assets/Scripts</i> directory.
+<h1 id="made_with">Made with :hammer_and_wrench:</h1>
+* C Language
+
 
 
