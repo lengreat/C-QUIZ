@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#introduction">Introduction</a> •
   <a href="#demo">Demo</a> •
-  <a href="#demo">Step</a> •
+  <a href="#setup">Setup</a> •
   <a href="#changingControls">Changing Controls</a>
 </p>
 
@@ -29,17 +29,24 @@ There are marked boxes that contain questions about C language and let them to o
   <a href="/"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
 </p>
 
-<h1 id="controls">Controls</h1>
+<h1 id="setup">Setup</h1>
+This setup allow run anyone C program in VSCode
 
-It is a Two-Player game.
+Step by Step, before donwload Visual Studio Code, Git, MinGW
 
-<center>
+* Extension for Visual Studio Code <<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools">C/C++</a>>, <<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack">C/C++ Extension Pack</a>>
+* Studio, G
+* Studio, G
 
-| Player 1 Controls || Player 2 Controls |
-|--|-|--|
-|<table><tr><th>Key</th><th>Description</th></tr><tr align="center"><td>UpArrowKey</td><td>Move Up</td></tr><tr align="center"><td>DownArrowKey</td><td>Move Down</td></tr><tr align="center"><td>LeftArrowKey</td><td>Move Left</td></tr><tr align="center"><td>RightArrowKey</td><td>Move Right</td></tr><tr align="center"><td>SpaceBar</td><td>Place Bomb</td></tr> </table>|<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>| <table> <tr><th>Key</th><th>Description</th></tr><tr align="center"><td>NumPad 8</td><td>Move Up</td></tr><tr align="center"><td>NumPad 5</td><td>Move Down</td></tr><tr align="center"><td>NumPad 4</td><td>Move Left</td></tr><tr align="center"><td>NumPad 6</td><td>Move Right</td></tr><tr align="center"><td>End Key</td><td>Place Bomb</td></tr> </table>|
+```ruby
+# Clone this repository
+$ git clone https://github.com/ahsankhan26/TermFolio.git
+# Go to the repository folder
+$ cd TermFolio
+# Open the file(data.js)
+```
 
-</center>
+
 
 <h1 id="changingControls">Changing Controls</h1>
 You can change the controls by making changes in the following files present in <i>/Assets/Scripts</i> directory.
