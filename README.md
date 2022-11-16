@@ -27,7 +27,7 @@ There are marked boxes that contain questions about C language and let them to o
 </p>
 <h1  align="center">Preview</h1>
 <p align="center">
-  <a href="/"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
+  <a href="#title"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
 </p>
 
 <h1 id="setup">Setup</h1>
