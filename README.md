@@ -32,11 +32,19 @@ There are marked boxes that contain questions about C language and let them to o
 <h1 id="setup">Setup</h1>
 This setup allow run anyone C program in VSCode
 
-Step by Step, before donwload Visual Studio Code, Git, MinGW
+Step by Step, before donwload and install Visual Studio Code, Git, MinGW
 
 * Extension for Visual Studio Code <<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools">C/C++</a>>, <<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack">C/C++ Extension Pack</a>>
-* Studio, G
-* Studio, G
+* Configure and edit environment variables to use Git
+```ruby
+# Add in "Path" => "C:\Program Files\Git\cmd"
+```
+* Configure MinGW
+```ruby
+# Execute "MinGW Installation Manager"
+# Select "Basic Setup" => mark "mingw32-base" (A Basic MinGW Installation)
+# Check in "Installation" => "Apply Changes"
+```
 
 ```ruby
 # Clone this repository
