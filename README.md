@@ -45,30 +45,20 @@ Step by Step, before donwload and install Visual Studio Code, Git, MinGW
 # Select "Basic Setup" => mark "mingw32-base" (A Basic MinGW Installation)
 # Check in "Installation" => "Apply Changes"
 ```
-
+* Download or clone this repository
 ```ruby
 # Clone this repository
 $ git clone https://github.com/ahsankhan26/TermFolio.git
-# Go to the repository folder
-$ cd TermFolio
-# Open the file(data.js)
 ```
-
+* Run in VSCode
+```ruby
+# Select in "Terminal" => "Configure Tasks.." to generate the necessary files for compilation
+# Check in "juego.c" => "Run Build Task..." to generate .exe
+$ start juego.exe
+```
 
 
 <h1 id="changingControls">Changing Controls</h1>
 You can change the controls by making changes in the following files present in <i>/Assets/Scripts</i> directory.
 
-<h4>Player One</h4>
-
-```javascript
-○ Player One Movement | Player1.cs
-○ Player One Bomb     | BombSpawner.cs
-```
-<h4>Player Two</h4>
-
-```javascript
-○ Player Two Movement | Player2Script.cs
-○ Player Two Bomb     | Player2BombSpawner.cs
-```
 
