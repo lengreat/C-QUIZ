@@ -1,7 +1,6 @@
 <h1 id="title" align="center">C-QUIZ</h1>
 
 <h3 align="center"> :black_heart:  Console Game in C language :black_large_square: </h3>
-
 <p align="center">
   <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-c.svg"></a>
   <a href="#title"><img src="https://forthebadge.com/images/badges/makes-people-smile.svg"></a>
@@ -25,15 +24,16 @@ There are marked boxes that contain questions about C language and let them to o
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99779642/202041387-160088bb-1175-400f-bc55-8988f6b4642c.gif" style="max-width:100%;width:auto;height:auto;">
 </p>
-<h1  align="center">Preview</h1>
-<p align="center">
-  <a href="#title"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
-</p>
 
 <h1 id="setup">Setup</h1>
-This setup allow run anyone C program in VSCode
 
-Step by Step, before donwload and install Visual Studio Code, Git, MinGW
+
+Step by Step, before donwload and install:  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-blue.svg?&style=flat&logo=visual-studio-code&logoColor=white"></a>
+  <a href="https://git-scm.com/downloads"><img src="https://img.shields.io/badge/GIT-red.svg?&style=flat&logo=git&logoColor=white"></a>
+  <a href="https://sourceforge.net/projects/mingw/"><img src="https://img.shields.io/badge/MinGW-yellow.svg?&style=flat&logo=eslint&logoColor=black"></a>
+  
+  This setup allow run anyone C program in VSCode
+
 
 * Extension for Visual Studio Code <<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools">C/C++</a>>, <<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack">C/C++ Extension Pack</a>>
 * Configure and edit environment variables to use Git
@@ -63,7 +63,7 @@ You can change the boxes sheer number and choose to play with other player, like
 
 <h1 id="made_with">Made with :hammer_and_wrench:</h1>
 
-* C Language
+<a href="#title"><img src="https://img.shields.io/badge/Language-blue.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=whiite"></a>
 
 
 
